@@ -48,7 +48,4 @@ solveRect(4, 6);
 solveRect(0, 4);
 solveRect(6, 8);
 solveRect(0, 6);
-solveRect(0, 4);
-solveRect(5, 0);
-solveRect(5, 9);
-solveRect(9, 9);
+
