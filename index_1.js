@@ -46,6 +46,4 @@ function solveRect(l, b){
 
 solveRect(4, 6);
 solveRect(0, 4);
-solveRect(6, 8);
-solveRect(0, 6);
 
